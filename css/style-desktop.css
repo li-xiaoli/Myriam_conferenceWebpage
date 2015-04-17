@@ -132,6 +132,7 @@
 
 	#nav
 	{
+		min-width: 960px;
 	}
 
 		#nav a:hover,#nav a:active
